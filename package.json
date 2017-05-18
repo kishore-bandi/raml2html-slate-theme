@@ -27,8 +27,8 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "istanbul": "^0.4.5",
-    "mocha": "^3.2.0",
-    "raml2html": "^6.1.1",
+    "mocha": "^3.4.1",
+    "raml2html": "^6.3.0",
     "rewire": "^2.5.2"
   },
   "homepage": "https://github.com/wdullaer/raml2html-slate-theme",
