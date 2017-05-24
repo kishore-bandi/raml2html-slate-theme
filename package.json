@@ -13,7 +13,7 @@
   "dependencies": {
     "marked": "^0.3.6",
     "minimize": "^2.1.0",
-    "nunjucks": "^3.0.0",
+    "nunjucks": "^3.0.1",
     "nunjucks-markdown": "^2.0.1",
     "stylus": "^0.54.5"
   },
@@ -22,12 +22,12 @@
     "chai-as-promised": "^6.0.0",
     "eslint": "^3.19.0",
     "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-import": "~2.2.0",
+    "eslint-plugin-import": "~2.3.0",
     "eslint-plugin-node": "~4.2.2",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
     "istanbul": "^0.4.5",
-    "mocha": "^3.4.1",
+    "mocha": "^3.4.2",
     "raml2html": "^6.3.0",
     "rewire": "^2.5.2"
   },
